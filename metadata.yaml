@@ -1,0 +1,29 @@
+_repo: The-Author-s-Desk-Book-Being-a-Reference-Volume-upon-Questions-of-the-Relations-of-the-Author__53520
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orcutt, William Dana
+    alias: Orcutt, Wm. Dana (William Dana)
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '6050'
+    url: http://www.gutenberg.org/2009/agents/6050
+description: ''
+gutenberg_issued: '2016-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53520'
+  lccn: '14014366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authorship -- Handbooks, manuals, etc.'
+- !lcc 'PN'
+- GITenberg
+title: "The Author's Desk Book\r\nBeing a Reference Volume upon Questions of the Relations\
+  \ of the Author to the Publisher, Copyright, The Relation of the Contributor to\
+  \ the Magazine, Mechanics of the Book, Arrangement of the Book, Making of the Index,\
+  \ Etc."
+url: http://www.gutenberg.org/ebooks/53520
